@@ -1,0 +1,13 @@
+{
+  "name": "profileglow-ai",
+  "version": "1.0.0",
+  "description": "AI Dating Profile Optimizer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
